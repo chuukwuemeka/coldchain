@@ -1,0 +1,2 @@
+Coldchain is a covid verification system. It has the Manufacturer, Distributor, Inspector, storage facility, Immunizer, Traveller and Border agent verifies the vaccine certificate using the system and avoids falsified vaccine documents.
+The coldchain system solves the problem of fake certification, ensures certification meets the right standard and vaccine passport recognized by destination country of the traveller.
